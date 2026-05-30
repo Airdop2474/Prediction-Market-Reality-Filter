@@ -1,0 +1,690 @@
+[
+  {
+    "timestamp": "2026-05-20T23:00:53.634723+00:00",
+    "market_question": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
+    "market_probability": 11.25,
+    "final_probability": 29.23,
+    "divergence": 17.98,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 29.23,
+        "confidence": 0.576
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-20T23:03:39.012121+00:00",
+    "market_question": "Will the Republicans win the 2028 US Presidential Election?",
+    "market_probability": 38.5,
+    "final_probability": 26.99,
+    "divergence": -11.51,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 26.99,
+        "confidence": 0.68
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-20T23:03:58.310687+00:00",
+    "market_question": "Will OpenAI's valuation hit (LOW) $600B by December 31?",
+    "market_probability": 11.5,
+    "final_probability": 30.87,
+    "divergence": 19.37,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 30.87,
+        "confidence": 0.598
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-20T23:04:14.224813+00:00",
+    "market_question": "Will Ethereum dip to $1,500 by December 31, 2026?",
+    "market_probability": 48.5,
+    "final_probability": 40.87,
+    "divergence": -7.63,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 40.87,
+        "confidence": 0.513
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-20T23:04:34.644346+00:00",
+    "market_question": "Will Solana dip to $20 by December 31, 2026?",
+    "market_probability": 9.5,
+    "final_probability": 27.36,
+    "divergence": 17.86,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 27.36,
+        "confidence": 0.557
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-20T23:04:50.754969+00:00",
+    "market_question": "Will Marco Rubio win the 2028 US Presidential Election?",
+    "market_probability": 13.25,
+    "final_probability": 25.98,
+    "divergence": 12.73,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 25.98,
+        "confidence": 0.632
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-20T23:05:07.091181+00:00",
+    "market_question": "Will Spencer Pratt finish first in the first round of the 2026 Los Angeles mayoral election?",
+    "market_probability": 20.0,
+    "final_probability": 27.88,
+    "divergence": 7.88,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 27.88,
+        "confidence": 0.612
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-20T23:05:25.603086+00:00",
+    "market_question": "Will the Republican Party hold exactly 50 Senate seats after the 2026 midterm elections?",
+    "market_probability": 15.5,
+    "final_probability": 24.67,
+    "divergence": 9.17,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 24.67,
+        "confidence": 0.659
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-20T23:05:44.592242+00:00",
+    "market_question": "Will Mandela Barnes win the 2026 Wisconsin Governor Democratic primary election?",
+    "market_probability": 54.50000000000001,
+    "final_probability": 44.11,
+    "divergence": -10.39,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 44.11,
+        "confidence": 0.645
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-22T03:56:22.541313+00:00",
+    "market_question": "Will Xavier Becerra finish first in the 2026 California Governor primary election?",
+    "market_probability": 48.0,
+    "final_probability": 31.24,
+    "divergence": -16.76,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 31.24,
+        "confidence": 0.701
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-22T03:56:56.945766+00:00",
+    "market_question": "Will Trump meet with Pope Leo XIV in 2026?",
+    "market_probability": 20.5,
+    "final_probability": 27.23,
+    "divergence": 6.73,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 27.23,
+        "confidence": 0.635
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-22T03:57:21.365747+00:00",
+    "market_question": "Will Xi meet with Takaichi by June 30, 2026?",
+    "market_probability": 2.7,
+    "final_probability": 28.29,
+    "divergence": 25.59,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 28.29,
+        "confidence": 0.578
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-22T03:57:55.779398+00:00",
+    "market_question": "Will DeepSeek have the third best AI model at the end of May 2026?",
+    "market_probability": 0.15,
+    "final_probability": 26.59,
+    "divergence": 26.44,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 26.59,
+        "confidence": 0.644
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-22T03:58:24.496042+00:00",
+    "market_question": "Will Marco Rubio win the 2028 US Presidential Election?",
+    "market_probability": 12.35,
+    "final_probability": 25.04,
+    "divergence": 12.69,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 25.04,
+        "confidence": 0.647
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-22T03:59:03.289186+00:00",
+    "market_question": "Will the Republican Party hold exactly 50 Senate seats after the 2026 midterm elections?",
+    "market_probability": 16.5,
+    "final_probability": 29.1,
+    "divergence": 12.6,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 29.1,
+        "confidence": 0.594
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-22T03:59:32.657416+00:00",
+    "market_question": "Will the Republicans win the 2028 US Presidential Election?",
+    "market_probability": 38.5,
+    "final_probability": 35.47,
+    "divergence": -3.03,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 35.47,
+        "confidence": 0.64
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-22T04:00:02.320804+00:00",
+    "market_question": "Will Shai Gilgeous-Alexander win the 2026 NBA Finals MVP?",
+    "market_probability": 46.5,
+    "final_probability": 25.57,
+    "divergence": -20.93,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 25.57,
+        "confidence": 0.77
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-22T04:00:38.593956+00:00",
+    "market_question": "Will Ethereum dip to $1,500 by December 31, 2026?",
+    "market_probability": 48.5,
+    "final_probability": 39.58,
+    "divergence": -8.92,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 39.58,
+        "confidence": 0.569
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-22T04:01:13.137914+00:00",
+    "market_question": "Will OpenAI have the highest private market valuation on June 30?",
+    "market_probability": 1.6500000000000001,
+    "final_probability": 28.51,
+    "divergence": 26.86,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 28.51,
+        "confidence": 0.617
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-22T04:01:42.358117+00:00",
+    "market_question": "Will Solana dip to $20 by December 31, 2026?",
+    "market_probability": 9.5,
+    "final_probability": 26.41,
+    "divergence": 16.91,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 26.41,
+        "confidence": 0.573
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-22T04:02:04.554611+00:00",
+    "market_question": "Will Solana dip to $10 in May?",
+    "market_probability": 0.05,
+    "final_probability": 24.19,
+    "divergence": 24.14,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 24.19,
+        "confidence": 0.598
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-22T06:00:58.389405+00:00",
+    "market_question": "Will Xavier Becerra finish first in the 2026 California Governor primary election?",
+    "market_probability": 48.0,
+    "final_probability": 29.69,
+    "divergence": -18.31,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 29.69,
+        "confidence": 0.726
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-22T06:01:17.668792+00:00",
+    "market_question": "Will 60 ships transit the Strait of Hormuz on any day by May 31?",
+    "market_probability": 13.5,
+    "final_probability": 28.53,
+    "divergence": 15.03,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 28.53,
+        "confidence": 0.593
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-22T06:01:50.897111+00:00",
+    "market_question": "Will Shai Gilgeous-Alexander win the 2026 NBA Finals MVP?",
+    "market_probability": 46.5,
+    "final_probability": 25.81,
+    "divergence": -20.69,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 25.81,
+        "confidence": 0.765
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-22T06:02:13.823285+00:00",
+    "market_question": "Will DeepSeek have the third best AI model at the end of May 2026?",
+    "market_probability": 0.15,
+    "final_probability": 25.99,
+    "divergence": 25.84,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 25.99,
+        "confidence": 0.653
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-22T06:02:33.663207+00:00",
+    "market_question": "Will Marco Rubio win the 2028 US Presidential Election?",
+    "market_probability": 12.35,
+    "final_probability": 25.0,
+    "divergence": 12.65,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 25.0,
+        "confidence": 0.662
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-22T06:02:59.762316+00:00",
+    "market_question": "Will the Republican Party hold exactly 50 Senate seats after the 2026 midterm elections?",
+    "market_probability": 16.5,
+    "final_probability": 30.39,
+    "divergence": 13.89,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 30.39,
+        "confidence": 0.566
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-22T06:03:23.760245+00:00",
+    "market_question": "Will the Republicans win the 2028 US Presidential Election?",
+    "market_probability": 38.5,
+    "final_probability": 35.67,
+    "divergence": -2.83,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 35.67,
+        "confidence": 0.634
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-22T06:05:52.824676+00:00",
+    "market_question": "Will Ethereum dip to $1,500 by December 31, 2026?",
+    "market_probability": 48.5,
+    "final_probability": 44.17,
+    "divergence": -4.33,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 44.17,
+        "confidence": 0.278
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-22T06:06:22.976645+00:00",
+    "market_question": "Will OpenAI have the highest private market valuation on June 30?",
+    "market_probability": 1.6500000000000001,
+    "final_probability": 29.2,
+    "divergence": 27.55,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 29.2,
+        "confidence": 0.606
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-22T06:06:47.005330+00:00",
+    "market_question": "Will Solana dip to $20 by December 31, 2026?",
+    "market_probability": 9.5,
+    "final_probability": 22.65,
+    "divergence": 13.15,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 22.65,
+        "confidence": 0.645
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23T08:40:22.525294+00:00",
+    "market_question": "Will Pamela Evette win the 2026 South Carolina Governor Republican primary election?",
+    "market_probability": 35.0,
+    "final_probability": 44.07,
+    "divergence": 9.07,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 44.07,
+        "confidence": 0.575
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23T08:40:22.632438+00:00",
+    "market_question": "Will the Republican Party hold exactly 50 Senate seats after the 2026 midterm elections?",
+    "market_probability": 15.5,
+    "final_probability": 38.32,
+    "divergence": 22.82,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 38.32,
+        "confidence": 0.491
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23T08:40:22.647550+00:00",
+    "market_question": "Will Marco Rubio win the 2028 US Presidential Election?",
+    "market_probability": 13.65,
+    "final_probability": 35.49,
+    "divergence": 21.84,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 35.49,
+        "confidence": 0.554
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23T08:40:22.661611+00:00",
+    "market_question": "Will Mandela Barnes win the 2026 Wisconsin Governor Democratic primary election?",
+    "market_probability": 50.5,
+    "final_probability": 50.17,
+    "divergence": -0.33,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 50.17,
+        "confidence": 0.496
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23T08:40:40.077126+00:00",
+    "market_question": "Will the Republicans win the 2028 US Presidential Election?",
+    "market_probability": 38.5,
+    "final_probability": 47.05,
+    "divergence": 8.55,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 47.05,
+        "confidence": 0.415
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23T08:40:40.505275+00:00",
+    "market_question": "Will Kamala Harris win the California Governor Election in 2026?",
+    "market_probability": 0.25,
+    "final_probability": 36.84,
+    "divergence": 36.59,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 36.84,
+        "confidence": 0.412
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23T08:40:41.487139+00:00",
+    "market_question": "Will Solana dip to $20 by December 31, 2026?",
+    "market_probability": 9.5,
+    "final_probability": 35.54,
+    "divergence": 26.04,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 35.54,
+        "confidence": 0.414
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23T08:40:41.548013+00:00",
+    "market_question": "Will Michael Younger win the California Governor Election in 2026?",
+    "market_probability": 0.15,
+    "final_probability": 36.82,
+    "divergence": 36.67,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 36.82,
+        "confidence": 0.412
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23T13:39:01.467630+00:00",
+    "market_question": "Will Pamela Evette win the 2026 South Carolina Governor Republican primary election?",
+    "market_probability": 33.0,
+    "final_probability": 43.19,
+    "divergence": 10.19,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 43.19,
+        "confidence": 0.575
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23T13:39:01.505588+00:00",
+    "market_question": "Will Solana dip to $20 by December 31, 2026?",
+    "market_probability": 9.5,
+    "final_probability": 35.13,
+    "divergence": 25.63,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 35.13,
+        "confidence": 0.426
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23T13:39:01.990044+00:00",
+    "market_question": "Will the price of Ethereum be between $2,100 and $2,200 on May 23?",
+    "market_probability": 0.3,
+    "final_probability": 28.47,
+    "divergence": 28.17,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 28.47,
+        "confidence": 0.52
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23T13:39:02.166983+00:00",
+    "market_question": "Will Marco Rubio win the 2028 US Presidential Election?",
+    "market_probability": 13.65,
+    "final_probability": 35.58,
+    "divergence": 21.93,
+    "resolved": false,
+    "actual_outcome": null,
+    "agents": [
+      {
+        "agent_name": "ai_analysis_service",
+        "probability": 35.58,
+        "confidence": 0.552
+      }
+    ]
+  }
+]
